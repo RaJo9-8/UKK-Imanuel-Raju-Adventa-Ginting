@@ -1,0 +1,4 @@
+## Struktur Data Aplikasi
+- Daftar buku, user, peminjaman: Array
+- Riwayat pinjaman: Queue
+- Pencarian buku: Hash Map (ID → Data Buku)
